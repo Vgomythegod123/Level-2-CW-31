@@ -1,0 +1,29 @@
+h1 {
+    font-size: 100px;
+}
+
+button {
+    border-radius: 100px;
+}
+
+#chair {
+    background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/deserve-more-bg.jpg);
+    color: white;
+    padding-left: 50px;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+#inchair {
+    padding-top: 200px;
+}
+
+.box1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+    
+}
